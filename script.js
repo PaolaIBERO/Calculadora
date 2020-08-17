@@ -41,21 +41,3 @@ function validateOperator(arrayData) {
 function clearInput() {
     updateInput('', true)
 }
-
-
-function sumarDosNumeros(numero1, numero2) {
-    /**
-     * && => Cuando se cumplen las dos
-     * 
-     * || => una se debe cumplir
-     */
-    if (numero1 || numero2) {
-        /**
-         * cafe
-         * lugar
-         * hora
-         */
-    }
-}
-
-//sumarDosNumeros(5, 5);
